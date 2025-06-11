@@ -1,0 +1,14 @@
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Test\bin\Debug\Test.exe.config
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Test\bin\Debug\Test.exe
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Test\bin\Debug\Test.pdb
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Test\bin\Debug\ctlClockLib.dll
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Test\bin\Debug\ctlClockLib.pdb
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Test\obj\Debug\Test.csproj.Up2Date
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Test\obj\Debug\Test.exe
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Test\obj\Debug\Test.pdb
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Test\obj\Debug\Test.exe.config
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Test\obj\Debug\Test.Form1.resources
