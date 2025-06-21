@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Subprocesos y WinForm/1.0.0": {
+        "runtime": {
+          "Subprocesos y WinForm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Subprocesos y WinForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

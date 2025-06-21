@@ -1,0 +1,21 @@
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Subprocesos y WinForm\bin\Debug\net8.0-windows\Subprocesos y WinForm.exe
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Subprocesos y WinForm\bin\Debug\net8.0-windows\Subprocesos y WinForm.deps.json
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Subprocesos y WinForm\bin\Debug\net8.0-windows\Subprocesos y WinForm.runtimeconfig.json
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Subprocesos y WinForm\bin\Debug\net8.0-windows\Subprocesos y WinForm.dll
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Subprocesos y WinForm\bin\Debug\net8.0-windows\Subprocesos y WinForm.pdb
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Subprocesos y WinForm\obj\Debug\net8.0-windows\Subprocesos_y_WinForm.Form1.resources
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Subprocesos y WinForm\obj\Debug\net8.0-windows\Subprocesos y WinForm.csproj.GenerateResource.cache
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Subprocesos y WinForm\obj\Debug\net8.0-windows\Subprocesos y WinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Subprocesos y WinForm\obj\Debug\net8.0-windows\Subprocesos y WinForm.AssemblyInfoInputs.cache
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Subprocesos y WinForm\obj\Debug\net8.0-windows\Subprocesos y WinForm.AssemblyInfo.cs
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Subprocesos y WinForm\obj\Debug\net8.0-windows\Subprocesos y WinForm.csproj.CoreCompileInputs.cache
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Subprocesos y WinForm\obj\Debug\net8.0-windows\Subprocesos y WinForm.dll
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Subprocesos y WinForm\obj\Debug\net8.0-windows\refint\Subprocesos y WinForm.dll
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Subprocesos y WinForm\obj\Debug\net8.0-windows\Subprocesos y WinForm.pdb
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Subprocesos y WinForm\obj\Debug\net8.0-windows\Subprocesos y WinForm.genruntimeconfig.cache
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Subprocesos y WinForm\obj\Debug\net8.0-windows\ref\Subprocesos y WinForm.dll
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Subprocesos y WinForm\obj\Debug\net8.0-windows\Subprocesos_y_WinForm.InvokeForm.resources
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Subprocesos y WinForm\obj\Debug\net8.0-windows\Subprocesos_y_WinForm.BackgroundWorkerForm.resources
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Subprocesos y WinForm\obj\Debug\net8.0-windows\Subprocesos_y_WinForm.BackgroundClase.BackgroundWorkerF.resources
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Subprocesos y WinForm\obj\Debug\net8.0-windows\Subprocesos_y_WinForm.FibonacciCalculator.Fibonacci.resources
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Subprocesos y WinForm\obj\Debug\net8.0-windows\Subprocesos_y_WinForm.Player.LoadPlayer.resources
