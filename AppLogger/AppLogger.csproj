@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>applogger-es-1-2025</PackageId>
+    <Title>Applogger Example 2025</Title>
+    <Description>Ejemplo de empaquetado por NuGet</Description>
+    <PackageTags>NuGet, Logger, Sample</PackageTags>
+  </PropertyGroup>
+
+</Project>

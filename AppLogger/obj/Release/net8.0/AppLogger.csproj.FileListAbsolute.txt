@@ -1,0 +1,11 @@
+C:\Users\garci\Documents\Visual Studio 2022\Projects\AppLogger\bin\Release\net8.0\AppLogger.deps.json
+C:\Users\garci\Documents\Visual Studio 2022\Projects\AppLogger\bin\Release\net8.0\AppLogger.dll
+C:\Users\garci\Documents\Visual Studio 2022\Projects\AppLogger\bin\Release\net8.0\AppLogger.pdb
+C:\Users\garci\Documents\Visual Studio 2022\Projects\AppLogger\obj\Release\net8.0\AppLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garci\Documents\Visual Studio 2022\Projects\AppLogger\obj\Release\net8.0\AppLogger.AssemblyInfoInputs.cache
+C:\Users\garci\Documents\Visual Studio 2022\Projects\AppLogger\obj\Release\net8.0\AppLogger.AssemblyInfo.cs
+C:\Users\garci\Documents\Visual Studio 2022\Projects\AppLogger\obj\Release\net8.0\AppLogger.csproj.CoreCompileInputs.cache
+C:\Users\garci\Documents\Visual Studio 2022\Projects\AppLogger\obj\Release\net8.0\AppLogger.dll
+C:\Users\garci\Documents\Visual Studio 2022\Projects\AppLogger\obj\Release\net8.0\refint\AppLogger.dll
+C:\Users\garci\Documents\Visual Studio 2022\Projects\AppLogger\obj\Release\net8.0\AppLogger.pdb
+C:\Users\garci\Documents\Visual Studio 2022\Projects\AppLogger\obj\Release\net8.0\ref\AppLogger.dll
