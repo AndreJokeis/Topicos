@@ -1,0 +1,16 @@
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Juego\bin\Debug\net8.0-windows\Juego.exe
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Juego\bin\Debug\net8.0-windows\Juego.deps.json
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Juego\bin\Debug\net8.0-windows\Juego.runtimeconfig.json
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Juego\bin\Debug\net8.0-windows\Juego.dll
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Juego\bin\Debug\net8.0-windows\Juego.pdb
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Juego\obj\Debug\net8.0-windows\Juego.Form1.resources
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Juego\obj\Debug\net8.0-windows\Juego.csproj.GenerateResource.cache
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Juego\obj\Debug\net8.0-windows\Juego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Juego\obj\Debug\net8.0-windows\Juego.AssemblyInfoInputs.cache
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Juego\obj\Debug\net8.0-windows\Juego.AssemblyInfo.cs
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Juego\obj\Debug\net8.0-windows\Juego.csproj.CoreCompileInputs.cache
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Juego\obj\Debug\net8.0-windows\Juego.dll
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Juego\obj\Debug\net8.0-windows\refint\Juego.dll
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Juego\obj\Debug\net8.0-windows\Juego.pdb
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Juego\obj\Debug\net8.0-windows\Juego.genruntimeconfig.cache
+C:\Users\garci\Documents\Visual Studio 2022\Projects\Juego\obj\Debug\net8.0-windows\ref\Juego.dll
