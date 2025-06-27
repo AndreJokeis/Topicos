@@ -1,0 +1,9 @@
+C:\Users\garci\Documents\Visual Studio 2022\Projects\ctlClockLib\bin\Debug\ctlClockLib.dll
+C:\Users\garci\Documents\Visual Studio 2022\Projects\ctlClockLib\bin\Debug\ctlClockLib.pdb
+C:\Users\garci\Documents\Visual Studio 2022\Projects\ctlClockLib\obj\Debug\ctlClockLib.csproj.AssemblyReference.cache
+C:\Users\garci\Documents\Visual Studio 2022\Projects\ctlClockLib\obj\Debug\ctlClockLib.ctlClock.resources
+C:\Users\garci\Documents\Visual Studio 2022\Projects\ctlClockLib\obj\Debug\ctlClockLib.csproj.GenerateResource.cache
+C:\Users\garci\Documents\Visual Studio 2022\Projects\ctlClockLib\obj\Debug\ctlClockLib.csproj.CoreCompileInputs.cache
+C:\Users\garci\Documents\Visual Studio 2022\Projects\ctlClockLib\obj\Debug\ctlClockLib.dll
+C:\Users\garci\Documents\Visual Studio 2022\Projects\ctlClockLib\obj\Debug\ctlClockLib.pdb
+C:\Users\garci\Documents\Visual Studio 2022\Projects\ctlClockLib\obj\Debug\ctlClockLib.ctlAlarmClock.resources
