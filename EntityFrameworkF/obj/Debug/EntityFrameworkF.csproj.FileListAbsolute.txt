@@ -1,0 +1,14 @@
+C:\Users\garci\Documents\Visual Studio 2022\Projects\EntityFrameworkF\bin\Debug\EntityFrameworkF.exe.config
+C:\Users\garci\Documents\Visual Studio 2022\Projects\EntityFrameworkF\bin\Debug\EntityFrameworkF.exe
+C:\Users\garci\Documents\Visual Studio 2022\Projects\EntityFrameworkF\bin\Debug\EntityFrameworkF.pdb
+C:\Users\garci\Documents\Visual Studio 2022\Projects\EntityFrameworkF\bin\Debug\EntityFramework.dll
+C:\Users\garci\Documents\Visual Studio 2022\Projects\EntityFrameworkF\bin\Debug\EntityFramework.xml
+C:\Users\garci\Documents\Visual Studio 2022\Projects\EntityFrameworkF\obj\Debug\EntityFrameworkF.csproj.AssemblyReference.cache
+C:\Users\garci\Documents\Visual Studio 2022\Projects\EntityFrameworkF\obj\Debug\EntityFrameworkF.Properties.Resources.resources
+C:\Users\garci\Documents\Visual Studio 2022\Projects\EntityFrameworkF\obj\Debug\EntityFrameworkF.csproj.GenerateResource.cache
+C:\Users\garci\Documents\Visual Studio 2022\Projects\EntityFrameworkF\obj\Debug\EntityFrameworkF.csproj.CoreCompileInputs.cache
+C:\Users\garci\Documents\Visual Studio 2022\Projects\EntityFrameworkF\obj\Debug\EntityFr.8A3E5694.Up2Date
+C:\Users\garci\Documents\Visual Studio 2022\Projects\EntityFrameworkF\obj\Debug\EntityFrameworkF.exe
+C:\Users\garci\Documents\Visual Studio 2022\Projects\EntityFrameworkF\obj\Debug\EntityFrameworkF.pdb
+C:\Users\garci\Documents\Visual Studio 2022\Projects\EntityFrameworkF\obj\Debug\EntityFrameworkF.exe.config
+C:\Users\garci\Documents\Visual Studio 2022\Projects\EntityFrameworkF\obj\Debug\EntityFrameworkF.Form1.resources
